@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computersss",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 300,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "SmartPhone",
+      "price": 400,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "hanen",
+      "price": "10",
+      "quantity": "1",
+      "selected": true,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
