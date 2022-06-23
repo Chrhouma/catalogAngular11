@@ -9,7 +9,7 @@ import {ProductsService} from "../../services/products.service";
 })
 export class ProductAddComponent implements OnInit {
 
- formgroup:FormGroup ;
+  formgroup:FormGroup ;
   submitted: boolean = false;
 
   constructor(private  fb:FormBuilder,private productService:ProductsService) { }
